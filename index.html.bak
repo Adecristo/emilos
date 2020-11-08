@@ -265,7 +265,7 @@
                     <img src="images/galeria/1.jpg" alt="symulator-image1" class="img-fluid img-thumbnail" />
                 </a>
 				<a href="images/galeria/2.jpg" data-toggle="lightbox" data-title="Symulator 1" data-gallery="symulator-galeria" class="col-sm-4">
-                    <img src="images/galeria/3.jpg" alt="symulator-image1" class="img-fluid img-thumbnail" />
+                    <img src="images/galeria/2.jpg" alt="symulator-image1" class="img-fluid img-thumbnail" />
                 </a>
 				<a href="images/galeria/3.jpg" data-toggle="lightbox" data-title="Symulator 1" data-gallery="symulator-galeria" class="col-sm-4">
                     <img src="images/galeria/3.jpg" alt="symulator-image1" class="img-fluid img-thumbnail" />
